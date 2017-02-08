@@ -122,6 +122,11 @@ body {
 #testimonials p:nth-child(2) {
   margin-top: 25px;
 }
+#gourmands {
+    color: gold;
+  font-size: .8em;
+  line-height: 1.8;
+}
 #social_network_div {
     width: 20%;
     height: 50px;
