@@ -125,6 +125,7 @@ body {
 #gourmands {
     color: gold;
   font-size: .8em;
+    text-align: center;
   line-height: 1.8;
 }
 #social_network_div {
