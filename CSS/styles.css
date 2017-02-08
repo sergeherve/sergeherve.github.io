@@ -122,6 +122,11 @@ body {
 #testimonials p:nth-child(2) {
   margin-top: 25px;
 }
+.social_net {
+    font-size:30px;
+    color:white;
+    padding:10px;
+}
 /* END FOOTER */
 
 /* HOME PAGE */
