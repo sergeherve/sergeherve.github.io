@@ -129,6 +129,7 @@ body {
   line-height: 1.8;
 }
 #social_network_div {
+    position: relative;
     width: 20%;
     height: 50px;
     margin-top: 5px;
@@ -420,6 +421,7 @@ h3.menu-item-title {
     width: 100%;
   }
   #social_network_div {
+     position: relative;
     width: 20%;
     height: 30px;
     margin-top: 5px;
@@ -432,8 +434,6 @@ h3.menu-item-title {
     font-size: 1.3em;
     color: white;
     padding: 10px;
-    dispay: inline-block;
-   
 }
 }
 
