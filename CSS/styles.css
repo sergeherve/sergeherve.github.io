@@ -425,8 +425,9 @@ h3.menu-item-title {
     width: 20%;
     height: 100px;
     margin-top: 5px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-bottom: 10px;
+    margin-left: 40%;
+    
     text-align: center;
 }
 .social_net {
@@ -435,7 +436,7 @@ h3.menu-item-title {
     padding: 10px;
 }
     #copyr {
-    margin-top: 40px;
+    margin-top: 50px;
     }
 }
 
