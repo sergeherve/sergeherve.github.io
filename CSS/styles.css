@@ -122,6 +122,12 @@ body {
 #testimonials p:nth-child(2) {
   margin-top: 25px;
 }
+#social_network_div {
+    width: 250px;
+    height: 50px;
+    margin-top: 5px;
+     margin-left: 42%;
+}
 .social_net {
     font-size:30px;
     color:white;
