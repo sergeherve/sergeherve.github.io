@@ -426,11 +426,13 @@ h3.menu-item-title {
     height: 30px;
      padding: 5px auto;
     text-align: center;
+      clear: both;
 }
 .social_net {
     font-size: 0.8em;
     color: white;
     padding: 5px;
+    clear: both;
 }
 }
 
