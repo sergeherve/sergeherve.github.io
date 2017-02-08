@@ -432,6 +432,7 @@ h3.menu-item-title {
     font-size: 1.3em;
     color: white;
     padding: 10px;
+    dispay: inline-block;
    
 }
 }
