@@ -419,13 +419,14 @@ h3.menu-item-title {
     margin-top: 5px;
     margin-left: auto;
     margin-right: auto;
+      margin-bottom: 10px;
     text-align: center;
 }
 .social_net {
-    font-size: 0.8em;
+    font-size: 1.3em;
     color: white;
-    padding: 5px;
-    margin-bottom: 5px;
+    padding: 10px;
+   
 }
 }
 
