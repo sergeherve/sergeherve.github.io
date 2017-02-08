@@ -427,6 +427,7 @@ h3.menu-item-title {
      padding: 5px auto;
     text-align: center;
       clear: both;
+      margin-bottom: 5px;
 }
 .social_net {
     font-size: 0.8em;
