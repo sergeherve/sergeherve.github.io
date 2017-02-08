@@ -123,10 +123,12 @@ body {
   margin-top: 25px;
 }
 #social_network_div {
-    width: 250px;
+    width: 20%;
     height: 50px;
     margin-top: 5px;
-     margin-left: 42%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 .social_net {
     font-size: 1.3em;
