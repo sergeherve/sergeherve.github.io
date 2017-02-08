@@ -144,11 +144,11 @@ body {
 }
 
 #menu-tile {
-  background: url('prawns.jpg') no-repeat;
+  background: url('/images/prawns.jpg') no-repeat;
   background-position: center;
 }
 #specials-tile {
-  background: url('ethiopia.jpg') no-repeat;
+  background: url('/images/ethiopia.jpg') no-repeat;
   background-position: center;
 }
 
@@ -247,7 +247,7 @@ h3.menu-item-title {
 /********** Large devices only **********/
 @media (min-width: 1200px) {
     .container .jumbotron {
-    background: url('food1200.jpg') no-repeat;
+    background: url('/images/food1200.jpg') no-repeat;
     background-size: cover;
     height: 675px;
   }
@@ -266,7 +266,7 @@ h3.menu-item-title {
     
     /* Home Page */
   .container .jumbotron {
-    background: url('food1200.jpg') no-repeat;
+    background: url('/images/food1200.jpg') no-repeat;
       background-size: cover;
     height: 558px;
   }
@@ -277,7 +277,7 @@ h3.menu-item-title {
 @media (min-width: 768px) and (max-width: 991px) {
     /* Home Page */
   .container .jumbotron {
-    background: url('food1200.jpg') no-repeat;
+    background: url('/images/food1200.jpg') no-repeat;
     background-size: cover;
     height: 432px;
   }
